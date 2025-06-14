@@ -1,11 +1,12 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyABTRG3rJz-NhRVxKkWH-HP74K1mhGZfRM",
-  authDomain: "bagong-account.firebaseapp.com",
-  databaseURL: "https://bagong-account-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "bagong-account",
-  storageBucket: "bagong-account.firebasestorage.app",
-  messagingSenderId: "684401381327",
-  appId: "1:684401381327:web:9a6aaf9a85c1d7a91fccba"
+    apiKey: "AIzaSyBGY4xvySsCKWGgOZnLmRm7WbisF1tIE_Q",
+  authDomain: "kiwobyte.firebaseapp.com",
+  databaseURL: "https://kiwobyte-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "kiwobyte",
+  storageBucket: "kiwobyte.firebasestorage.app",
+  messagingSenderId: "1017038385850",
+  appId: "1:1017038385850:web:34cec211d62de9e84a0883",
+  measurementId: "G-FHWSPCQ27F"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
